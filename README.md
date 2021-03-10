@@ -6,4 +6,7 @@ Supports only Facebook and Messenger page!
 Use for good!
 
 Installation:
-1 git clone 
+1) git clone https://github.com/RizanTMG/TheMisFitOfNightRaid_Socio.git
+2) cd TheMisFitOfNightRaid_Socio
+3) chmod +x themisfitofhingraid.sh
+4) ./themisfitofhingraid.sh
