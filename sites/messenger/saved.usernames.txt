@@ -1,6 +1,0 @@
-Account: test@gmail.com Pass: nice12345
-Account: 9824114922 Pass: santosh62
-Account: 123455 Pass: 98233
-Account: 9804132102 Pass: mannuroyal
-Account: 9804132102 Pass: mannuroyal
-Account: dgjdbgjkdgh Pass: dgahfhhfds
